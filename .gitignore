@@ -28,6 +28,10 @@
 
 # OS/platform generated files.
 
+# Don't forget about ReadMe
+!/README_images/** 
+!README.md
+
 # Windows
 ehthumbs.db
 Thumbs.db
